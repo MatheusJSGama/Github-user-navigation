@@ -4,6 +4,11 @@ Uma aplicação web que consome a API pública do GitHub para exibir informaçõ
 
 ---
 
+# Vídeo da aplicação
+
+https://github.com/user-attachments/assets/87b77e88-2060-4548-8d7c-ea3c6b4a7b3f
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia             | Descrição                                                              |
@@ -68,6 +73,7 @@ src/
 ├── App.tsx                    
 ├── index.css                  
 └── main.tsx 
+````
 
 # 📌 Como Rodar o Projeto
 
