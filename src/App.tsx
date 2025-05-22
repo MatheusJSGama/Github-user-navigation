@@ -2,7 +2,7 @@ import { Outlet } from 'react-router-dom';
 import { Header } from './components/Header';
 import { UserProvider } from './context/userContext';
 
-function App() {
+export function App() {
   return (
     <div className='flex min-h-screen flex-col items-center'>
       <UserProvider>
@@ -12,5 +12,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
